@@ -1,4 +1,4 @@
-# Learning "Programming Language Name"
+# Learning "Golang"
 
 This repository is a roadmap to learn and understand a programming language.
 This roadmap is highly inspired by ThePrimeagens roadmap for learning new languages.
