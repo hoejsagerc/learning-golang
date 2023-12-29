@@ -68,7 +68,7 @@ actions.
 </br>
 
 
-## Task 4 - Build a simple interpreter for a made up language
+## Task 4 - Build an interpreter for MonkeyLang
 
 This step is to build an interpreter for a madeup langage. The reason for this step is
 to have some sort of unified language which is made up, then to build the interpreter
