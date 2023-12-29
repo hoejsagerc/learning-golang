@@ -30,7 +30,7 @@ The main point of this step is to get an understanding of the following:
 - Data structures
 - Operators
 - Control flow
-- Classes is actual
+- Classes/Types - if actual
 - Methods / Functions
 
 After this step I should be able to have a basic understanding of how to write a simple 
