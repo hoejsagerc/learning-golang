@@ -1,5 +1,9 @@
 # Building a CLI tool with Cobra
 
+Cobra is a library for building cli tools with go
+
+https://github.com/spf13/cobra
+
 ## Installing cobra
 
 ```powershell
@@ -142,3 +146,16 @@ func init() {
 	// pingCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
 }
 ```
+
+## Viper 
+
+There is a companion library for configuring you cli too named viper
+
+https://github.com/spf13/viper
+
+To setup a cli project with viper you should initilize with 
+
+```powershell
+cobra-cli init toolbox --viper
+```
+
